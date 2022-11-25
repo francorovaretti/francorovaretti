@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @francorovaretti
 - 👀 I’m interested in Linux
-- 🌱 I’m currently learning MS-SQL
-- 💞️ I’m looking to collaborate on gaming indistry
+- 🌱 I’m currently learning Poetry writing
+- 💞️ I’m looking to collaborate on gaming 
 
 <!---
 francorovaretti/francorovaretti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
